@@ -1,0 +1,53 @@
+@import "nullstyle.scss";
+
+.main {
+}
+.conteiner {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.row {
+	display: flex;
+}
+.block-1 {
+	flex: 0 1 50%;
+	border: 1px solid black;
+	padding: 20px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	font-style: italic;
+}
+.image-1 {
+}
+.img1 {
+	max-width: 250px;
+}
+.text-1 {
+}
+.block-2 {
+	flex: 0 1 50%;
+	border: 1px solid black;
+	padding: 20px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	font-style: oblique;
+}
+.image-2 {
+}
+.text-2 {
+}
+.block-3 {
+	flex: 0 1 50%;
+	border: 1px solid black;
+	padding: 20px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	font-style: initial;
+}
+.image-3 {
+}
+.text-3 {
+}
